@@ -1,0 +1,43 @@
+transcendence
+ex machina
+
+
+Username : shlomendlini82@gmail.com 
+
+Password : TYHMY3Ed 
+
+URL : http://platform.deviare.co.za
+
+siyamthanda@cohort10.com
+
+SiyamthandaHlomendlini@cohort720.onmicrosoft.com
+
+
+
+Continent = IF(locations[Country]=="South Africa","Africa",IF(locations[Country]=="Philipines","Asia",IF(locations[Country]=="Singapore","Asia",IF(locations[Country]=="UAE","Asia",IF(locations[Country]=="India","Asia",IF(locations[Country]=="Indonesia","Asia",IF(locations[Country]=="Qatar","Asia",IF(locations[Country]=="Sri Lanka","Asia",IF(locations[Country]=="Turkey", IF(locations[Country]=="United Kingdom","Europe",IF(locations[Country]=="United States","North America",IF(locations[Country]=="Canada","North America",IF(locations[Country]=="Australia","Oceana",IF(locations[Country]=="New Zealand","Oceana",IF(locations[Country]=="Brazil","South America","other")))))))))))))))
+
+
+Continent = IF(locations[Country]=="South Africa","Africa",
+IF(locations[Country]=="Philipines","Asia",
+IF(locations[Country]=="Singapore","Asia",
+IF(locations[Country]=="UAE","Asia",
+IF(locations[Country]=="India","Asia",
+IF(locations[Country]=="Indonesia","Asia",*
+IF(locations[Country]=="Qatar","Asia",*
+IF(locations[Country]=="Sri Lanka","Asia",*
+IF(locations[Country]=="Turkey","Asia",* 
+IF(locations[Country]=="United Kingdom","Europe",*
+IF(locations[Country]=="United States","North America",*
+IF(locations[Country]=="Canada","North America",*
+IF(locations[Country]=="Australia","Oceana",*
+IF(locations[Country]=="New Zealand","Oceana",*
+IF(locations[Country]=="Brazil","South America","other")))))))))))))))
+
+
+
+continent = IF(locations[Country]=="South Africa","Africa",IF(locations[Country]=="Philipines","Asia",IF(locations[Country]=="Singapore","Asia",IF(locations[Country]=="UAE","Asia",IF(locations[Country]=="India","Asia",IF(locations[Country]=="United Kingdom","Europe",IF(locations[Country]=="United States","North America",IF(locations[Country]=="Brazil","South America",IF(locations[Country]=="New Zealand","Oceana",IF(locations[Country]=="Australia","Oceana",IF(locations[Country]=="Canada","North America",IF(locations[Country]=="Turkey","Asia",IF(locations[Country]=="Sri Lanka","Asia",IF(locations[Country]=="Qatar","Asia",IF(locations[Country]=="Indonesia","Asia","other")))))))))))))))
+
+
+
+
+http://remotedesktop.google.com/headless 
